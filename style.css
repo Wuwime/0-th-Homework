@@ -1,4 +1,36 @@
+div {
+    font-family: 'Courier Prime', monospace;
+}
+.text{
+    padding-left: 100px;
+}
 body {
-    background-image: url("background.png");
-    
+    background-image: url("assets/background.png");
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
    }
+header {
+    background-color: #333333;
+    height: 50px;
+    width: auto;
+}
+
+p {
+  display: inline;
+  margin-right: 10px;
+  margin-left: 20px;
+  padding: 5px;
+  color: #ff0099;
+  text-decoration: underline;
+  
+
+}
+#home{
+    padding-left: 850px;
+    
+}
+img{
+    padding-left: 100px;
+    margin-top: 10px;
+}
