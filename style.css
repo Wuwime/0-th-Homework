@@ -16,16 +16,14 @@ header {
     width: auto;
 }
 
-p {
+a {
   display: inline;
   margin-right: 10px;
   margin-left: 20px;
   padding: 5px;
   color: #ff0099;
-  text-decoration: underline;
-  
-
 }
+
 #home{
     padding-left: 850px;
     
