@@ -18,13 +18,15 @@ header {
     background-color: #333333;
     height: 50px;
     width: auto;
+    display: flex;
+    justify-content: center;
     
     
 }
 
 a {
   display: inline;
-  
+  margin-top: 15px;
   padding-left: 30px;
   color: #ff0099;
 }
@@ -40,6 +42,7 @@ a {
 img{
     padding-left: 10%;
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 #h3 {
     color: #ff0099;
