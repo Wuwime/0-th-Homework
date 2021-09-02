@@ -1,34 +1,73 @@
 div {
     font-family: 'Courier Prime', monospace;
+    align-content: center;
+    width:auto;
+    
 }
 .text{
-    padding-left: 100px;
+    padding: 10%;
 }
 body {
     background-image: url("assets/background.png");
     margin-top: 0px;
     margin-left: 0px;
     margin-right: 0px;
+    
    }
 header {
     background-color: #333333;
     height: 50px;
     width: auto;
+    
+    
 }
 
 a {
   display: inline;
-  margin-right: 10px;
-  margin-left: 20px;
-  padding: 5px;
+  
+  padding-left: 30px;
   color: #ff0099;
 }
 
 #home{
-    padding-left: 850px;
+    padding-left: 770px;
     
 }
+
+#lin{
+    padding-right: 10%;
+}
 img{
-    padding-left: 100px;
+    padding-left: 10%;
     margin-top: 10px;
+}
+#h3 {
+    color: #ff0099;
+    font-size: 30px; 
+}
+#h1 {
+    font-size: 50px;
+}
+#sep {
+    padding-left: 550px;
+    font-size: 30px;
+    
+}
+p{
+    line-height: 2;
+}
+.deftit{
+    font-size: 25px;
+}
+#tech {
+    font-size: 40px;
+    padding-left: 450px;
+}
+#up{
+    font-size: 60px;
+    padding-left:700px;
+    
+}
+#arrow{
+    text-decoration: none;
 }
